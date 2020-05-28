@@ -27,5 +27,5 @@ def merge_sort(nums):
                 sorted_pointer += 1
         return nums
     else:
-        return
+        return nums
 print(merge_sort([23,11,10,5,9,7]))
